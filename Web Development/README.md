@@ -159,11 +159,10 @@ On completion, you’ll get access to the Meta Career Programs Job Board—a job
     <td>Learn full-stack web development in this full course for beginners. First, you will learn the basics of HTML, CSS, and JavaScript. Then, you will learn how to put everything together to create a frontend movie search app. Finally, you will learn how to create a backend API to create movie reviews and connect the frontend to the backend. The backend uses Node.js, Express, and MongoDB.</td>
   </tr>
   <tr>
-    <td><a href="Pitman Training’s Web Development Courses">A range of courses that cover web development, including HTML, CSS, JavaScript, and PHP, with options for in-person or online learning.</td>
+    <td><a href="https://www.pitman-training.com/our-courses/software-web-development/web-development-courses/">Pitman Training’s Web Development Courses</a></td>
+    <td>A range of courses that cover web development, including HTML, CSS, JavaScript, and PHP, with options for in-person or online learning.</td>
   </tr>
   <tr>
-    <td a href = "edX’s Best Online Web Development Courses and Programs">A collection of online courses and certificate programs that cover various aspects of web development, including Python, JavaScript, and SQL.</td>
-  </tr>
   <tr>
     <td><a href="https://laracasts.com/path">Full Stack Developer on Laravel and Vue Js</a></td>
     <td>This is the path of becoming a full-stack developer on Laravel and Vuejs</td>
